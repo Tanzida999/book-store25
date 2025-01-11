@@ -45,7 +45,7 @@ app.get("/books", async (request, response) => {
   try {
   } catch (error) {
     console.log(error.messaase);
-    response.status(500);
+    response.status(501);
   }
 });
 mongoose
