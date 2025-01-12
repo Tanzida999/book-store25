@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import CreateBooks from "./pages/CreateBooks";
 import DeleteBooks from "./pages/DeleteBooks";
-import ShowBook from "./pages/showBook";
+import ShowBook from "./pages/ShowBook";
 import EditBooks from "./pages/EditBooks";
 
 const App = () => {
