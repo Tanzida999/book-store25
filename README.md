@@ -86,7 +86,7 @@ API Endpoints
 
  Base URL
 
-http://localhost:5555/api/items
+http://localhost:5555/books/
 
 
 Endpoints
